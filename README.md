@@ -1,4 +1,4 @@
-<h1 align="center">Salut 👋, Je suissui Christopher Marie-Angélique</h1>
+<h1 align="center">Salut 👋, Je suis Christopher Marie-Angélique</h1>
 <h3 align="center">Étudiant en Informatique et Développeur web junior</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=christopher973" alt="christopher973" /></a> </p>
